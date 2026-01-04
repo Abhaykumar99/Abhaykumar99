@@ -103,37 +103,6 @@ Kernel-level security mechanism using cryptographic digital signatures to preven
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 Stats & Contributions
-
-</div>
-
-<table align="center">
-  <tr>
-    <td width="48%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Abhaykumar99&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&icon_color=ff006e&text_color=ffffff&card_width=400" />
-    </td>
-    <td width="48%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaykumar99&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&text_color=ffffff&card_width=400" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-### 🔥 Contribution Streak
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abhaykumar99&theme=radical&hide_border=true&background=0d1117&stroke=ff006e&ring=ff006e&fire=ff006e&dates=ffffff" width="60%" />
-</div>
-
----
-
 ## 🎨 Currently Learning
 
 - 🧠 Advanced Deep Learning — Transformers, attention mechanisms, NAS
@@ -175,6 +144,6 @@ Kernel-level security mechanism using cryptographic digital signatures to preven
 
 **⭐ If you find my work interesting, star my repositories!**
 
-*Last updated: 2025*
+*Last updated: 2026*
 
 </div>
