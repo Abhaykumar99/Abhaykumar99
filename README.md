@@ -26,27 +26,17 @@ Computer Science student passionate about **AI, Machine Learning, and Cyber Secu
 
 ## 🧬 AI & Machine Learning
 
-**Specializations:** Computer Vision • Speech Systems • Data Analytics • Model Optimization • Responsible AI
+**Specializations:** Computer Vision • Speech Systems • Data Analytics • Model Optimization
 
 **Libraries & Tools:** NumPy • Pandas • Scikit-learn • TensorFlow • Keras • OpenCV • Matplotlib • Plotly
 
 ---
 
-## 🔐 Cyber Security & System Integrity
+## 🔐 Cyber Security
 
-**Focus Areas:** Kernel-level security • Cryptographic systems • System hardening • OS concepts • Network security
+**Focus:** Kernel-level security • Cryptographic systems • System hardening • Network security
 
-**Competencies:** C • Assembly • Python • OpenSSL • PKI • Digital Signatures • Authentication/Authorization
-
----
-
-## 🎓 Education
-
-**Bachelor of Science (Computer Science)**  
-*Shobhit Institute of Engineering & Technology, Meerut, UP*  
-📅 Aug 2023 – June 2027
-
-**Coursework:** Data Structures • Algorithms • DBMS • Operating Systems • Computer Networks • Web Development • Computer Architecture
+**Tech:** C • Assembly • Python • OpenSSL • PKI • Digital Signatures
 
 ---
 
@@ -100,17 +90,6 @@ Kernel-level security mechanism using cryptographic digital signatures to preven
 | AI & ML Engineering | ████████░░ 85% | Full-Stack Development | █████████░ 90% |
 | Data Science & Analytics | ████████░░ 85% | Cyber Security | ███████░░░ 80% |
 | Algorithms & DSA | █████████░ 90% | System Design | ████████░░ 85% |
-
----
-
-## 🎨 Currently Learning
-
-- 🧠 Advanced Deep Learning — Transformers, attention mechanisms, NAS
-- 🎯 Computer Vision — CNN architectures, object detection, segmentation
-- 🗣️ NLP — Language models, sentiment analysis, text generation
-- 📊 Production ML — Deployment, monitoring, MLOps pipelines
-- 🔒 Advanced Cybersecurity — Penetration testing, threat modeling
-- 🌐 Distributed Systems — Microservices security, zero-trust architecture
 
 ---
 
