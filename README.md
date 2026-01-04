@@ -18,25 +18,11 @@
 
 Computer Science student passionate about **AI, Machine Learning, and Cyber Security**. I build intelligent, secure, and scalable systems by combining data-driven decision-making with system-level security principles.
 
-🏆 **Project Expo 2025 Winner** — Secure Kernel Boot Verification System  
-🤖 **AI/ML Focus** — Deep learning, computer vision, speech systems  
-🔐 **Cyber Security** — Kernel integrity, cryptography, system hardening  
+**🤖 AI & ML:** Computer Vision, Speech Systems, Data Analytics | NumPy, TensorFlow, Keras, OpenCV, Scikit-learn
 
----
+**🔐 Security:** Kernel-level security, Cryptography, System hardening | C, Assembly, OpenSSL, PKI
 
-## 🧬 AI & Machine Learning
-
-**Specializations:** Computer Vision • Speech Systems • Data Analytics • Model Optimization
-
-**Libraries & Tools:** NumPy • Pandas • Scikit-learn • TensorFlow • Keras • OpenCV • Matplotlib • Plotly
-
----
-
-## 🔐 Cyber Security
-
-**Focus:** Kernel-level security • Cryptographic systems • System hardening • Network security
-
-**Tech:** C • Assembly • Python • OpenSSL • PKI • Digital Signatures
+**🏆 Project Expo 2025 Winner** — Secure Kernel Boot Verification System
 
 ---
 
@@ -56,21 +42,10 @@ Computer Science student passionate about **AI, Machine Learning, and Cyber Secu
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Core Competencies
 
-### 🏥 Hostel Management System
-Full-stack hostel operations platform with intelligent room allocation, role-based access control, and real-time synchronization.
-
-**Tech:** React.js • Node.js • MongoDB • JWT • Tailwind CSS  
-**Impact:** Reduced manual allocation time by ~70%
-
----
-
-### 🔐 Secure Kernel Boot Verification System
-Kernel-level security mechanism using cryptographic digital signatures to prevent unauthorized boot modifications and ensure system integrity.
-
-**Achievement:** 🏆 **Project Expo 2025 Winner**  
-**Tech:** C • x86 Assembly • Linux Kernel • OpenSSL • Cryptography
+- **AI & Machine Learning** • **Data Science** • **Full-Stack Development**
+- **Cyber Security** • **Algorithms & DSA** • **System Design**
 
 ---
 
@@ -80,16 +55,6 @@ Kernel-level security mechanism using cryptographic digital signatures to preven
 - 🤖 Active in ML research and algorithm development
 - 🚀 Competitive programmer on LeetCode & GeeksforGeeks
 - 💡 Hackathon participant & tech enthusiast
-
----
-
-## 🌟 Core Competencies
-
-| **AI & Machine Learning** | **Proficiency** | **System & Security** | **Proficiency** |
-|:---|:---:|:---|:---:|
-| AI & ML Engineering | ████████░░ 85% | Full-Stack Development | █████████░ 90% |
-| Data Science & Analytics | ████████░░ 85% | Cyber Security | ███████░░░ 80% |
-| Algorithms & DSA | █████████░ 90% | System Design | ████████░░ 85% |
 
 ---
 
@@ -123,6 +88,6 @@ Kernel-level security mechanism using cryptographic digital signatures to preven
 
 **⭐ If you find my work interesting, star my repositories!**
 
-*Last updated: 2026*
+*Last updated: 2025*
 
 </div>
