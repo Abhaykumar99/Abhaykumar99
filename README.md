@@ -2,15 +2,13 @@
 
 # 👋 Hi, I'm Abhay Kumar
 
-### 🧠 Data Scientist | ML Engineer | Full-Stack Developer | Cyber Security Enthusiast
+### 🤖 AI Engineer | ML Specialist | Cyber Security Researcher | Full-Stack Developer
 
-**Shobhit Institute of Engineering & Technology, Meerut (UP)**  
-*Building intelligent, secure, and scalable systems | Winner — Project Expo 2025*
+**Shobhit Institute of Engineering & Technology, Meerut (UP)**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+%E2%86%92+Intelligence;Security+%E2%86%92+Trust;Code+%E2%86%92+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Scientist+in+Progress;Machine+Learning+Engineer;Cyber+Security+Enthusiast;System+Security+Explorer;Building+Intelligent+Secure+Systems)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhaykumar99&style=flat-square&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/Abhaykumar99?style=flat-square)](https://github.com/Abhaykumar99)
+**Turning data into intelligence • Intelligence into secure systems**
 
 </div>
 
@@ -18,14 +16,63 @@
 
 ## 🎯 About Me
 
-I'm a Computer Science student passionate about transforming data into actionable intelligence while building secure, scalable systems. With a foundation in full-stack development, machine learning, and system-level security, I bridge the gap between theoretical CS and real-world problem-solving.
+I'm a Computer Science student obsessed with **Artificial Intelligence**, **Machine Learning**, and **Cyber Security**. I build intelligent, secure, and scalable systems by combining data-driven decision-making with system-level security principles.
 
-**Key philosophy:** *Data intelligence + system security + clean architecture = sustainable impact*
+**Philosophy:** *Data Intelligence + System Security + Clean Architecture = Sustainable Impact*
 
 🏆 **Project Expo 2025 Winner** — Secure Kernel Boot Verification System  
-🚀 **Full-Stack Builder** — End-to-end solutions from backend to frontend  
-🔐 **Security Minded** — OS concepts, cryptography, and system integrity  
-📊 **Data Enthusiast** — ML pipelines, analytics, and insights extraction  
+🤖 **AI/ML Focus** — Deep learning, computer vision, speech systems  
+🔐 **Cyber Security** — Kernel integrity, cryptography, system hardening  
+🚀 **Full-Stack Builder** — End-to-end intelligent systems  
+
+---
+
+## 🧬 AI & Machine Learning Ecosystem
+
+<div align="center">
+
+```
+Data Collection → Feature Engineering → Model Training → Evaluation → Deployment
+      ↓                 ↓                      ↓              ↓           ↓
+   Raw Signals    Intelligent Features   Learning Patterns  Metrics    Production
+```
+
+</div>
+
+### 🔬 ML Specializations
+- **Computer Vision** — Image processing, object detection, neural networks
+- **Speech Systems** — Audio recognition, text-to-speech, signal processing
+- **Data Analytics** — Statistical analysis, data mining, insights extraction
+- **Model Optimization** — Feature selection, hyperparameter tuning, ensemble methods
+- **Responsible AI** — Explainability, bias detection, ethical considerations
+
+### 📊 Data Science Arsenal
+**Core Libraries:** NumPy • Pandas • Scikit-learn • TensorFlow • Keras  
+**Visualization:** Matplotlib • Seaborn • Plotly  
+**Advanced:** OpenCV • NLTK • pyttsx3 • Speech Recognition  
+**Deployment:** Model serialization, API integration, production pipelines  
+
+---
+
+## 🔐 Cyber Security & System Integrity
+
+<div align="center">
+
+**Trust = Verification + Cryptography + System Hardening**
+
+</div>
+
+### 🛡️ Security Focus Areas
+- **Kernel-Level Security** — Boot verification, integrity checks, privilege isolation
+- **Cryptographic Systems** — Digital signatures, encryption, authentication protocols
+- **System Hardening** — Access control, secure coding, threat modeling
+- **OS Concepts** — Process management, memory security, interrupt handling
+- **Network Security** — Protocol security, secure communication, vulnerability assessment
+
+### 🔑 Security Competencies
+**Languages:** C • Assembly • Python  
+**Frameworks:** OpenSSL • Linux Kernel APIs • Cryptography Libraries  
+**Concepts:** PKI • Digital Signatures • Authentication/Authorization • Threat Analysis  
 
 ---
 
@@ -36,7 +83,7 @@ I'm a Computer Science student passionate about transforming data into actionabl
 📅 Aug 2023 – June 2027 (3rd Year)
 
 **Relevant Coursework:**  
-Data Structures & Algorithms • Database Management Systems • Operating Systems • Computer Networks • Web Development • Computer Architecture • Theory of Automata • Discrete Mathematics
+Data Structures & Algorithms • DBMS • Operating Systems • Computer Networks • Web Development • Computer Architecture • Theory of Automata • Discrete Mathematics
 
 ---
 
@@ -49,57 +96,66 @@ Data Structures & Algorithms • Database Management Systems • Operating Syste
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=5)
 
 ### ⚙️ Backend & Databases
-![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,git&perline=4)
-
-### 🤖 AI / ML & Data Science
-**Libraries & Frameworks:** NumPy • Pandas • Matplotlib • OpenCV • TensorFlow • Scikit-learn • pyttsx3 • Speech Recognition
+![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,mysql&perline=3)
 
 ### 🧰 Developer Tools & Platforms
-![My Skills](https://skillicons.dev/icons?i=vscode,github,git,jupyter,postman&perline=5)
+![My Skills](https://skillicons.dev/icons?i=vscode,github,git,jupyter,postman,linux&perline=6)
 
 ### 📚 Core CS Competencies
-- **DSA:** Advanced data structures, algorithmic problem-solving (LeetCode rating: active)
-- **System Design:** Scalable architectures, microservices, REST APIs
-- **Databases:** SQL optimization, NoSQL design, indexing strategies
-- **Security:** Cryptography, authentication/authorization, system integrity verification
-- **DevOps Basics:** Git workflows, CI/CD concepts, deployment strategies
+- **DSA:** Advanced data structures, algorithm optimization, complexity analysis
+- **System Design:** Scalable architectures, microservices, REST APIs, design patterns
+- **Databases:** SQL optimization, NoSQL design, indexing strategies, query optimization
+- **Security:** Cryptography, authentication/authorization, secure coding, threat modeling
+- **DevOps:** Git workflows, CI/CD concepts, containerization, deployment strategies
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏥 Hostel Management System
-**Full-Stack Platform | Real-Time Synchronization | Role-Based Access Control**
+**Full-Stack Platform | Secure Role-Based Access | Real-Time Intelligence**
 
-A comprehensive hostel operations dashboard serving administrators, wardens, and students with dynamic room allocation and instant data updates.
+A data-driven hostel operations platform with intelligent room allocation and real-time synchronization for administrators, wardens, and students.
 
 **Key Features:**
-- ✅ Dynamic room allocation with real-time synchronization
-- ✅ Three-tier role-based access control (Admin, Warden, Student)
-- ✅ Secure JWT-based authentication & authorization
-- ✅ Responsive, modern UI with seamless UX
-- ✅ RESTful API architecture with proper validation
+- ✅ AI-powered room allocation optimization
+- ✅ Three-tier role-based access control with JWT security
+- ✅ Real-time data synchronization with event streaming
+- ✅ Responsive UI with intelligent UX patterns
+- ✅ RESTful API architecture with secure validation
 
-**Impact:** Reduced manual room allocation time by ~70%  
+**Impact:** Reduced manual allocation time by ~70% | Improved occupancy optimization  
 **Tech Stack:** React.js • Node.js • MongoDB • JWT • Tailwind CSS • Express.js
-
-[View Repository](https://github.com/Abhaykumar99)
 
 ---
 
 ### 🔐 Secure Kernel Boot Verification System
-**Low-Level Security | Kernel Integrity | System Trust | Cryptography**
+**Cryptographic Kernel Integrity | System Trust Establishment | Low-Level Security**
 
-A sophisticated kernel-level security mechanism to prevent unauthorized boot-time modifications and ensure system integrity through cryptographic validation.
+A sophisticated kernel-level security mechanism using cryptographic digital signatures to prevent unauthorized boot-time modifications and ensure system integrity.
 
 **Key Features:**
-- ✅ Kernel integrity verification using digital signatures
-- ✅ Boot-time trust establishment with minimal latency
-- ✅ Enhanced system security posture against tampering
-- ✅ Low-level OS & assembly programming expertise demonstrated
+- ✅ Kernel integrity verification using RSA/SHA cryptography
+- ✅ Secure boot trust chain validation
+- ✅ Hardware security module integration concepts
+- ✅ Low-latency verification with minimal overhead
+- ✅ System-level tamper detection and response
 
 **Achievement:** 🏆 **Project Expo 2025 Winner** (Innovation & Showcase Category)  
-**Tech Stack:** C • Assembly • Linux Kernel • Cryptography • OpenSSL
+**Tech Stack:** C • x86 Assembly • Linux Kernel • OpenSSL • Cryptography  
+
+---
+
+## 📈 AI/ML Project Pipeline
+
+| Stage | Methodology | Tools |
+|-------|------------|-------|
+| **Data Collection** | Web scraping, APIs, databases | Python, Pandas, Beautiful Soup |
+| **Preprocessing** | Cleaning, normalization, augmentation | NumPy, Pandas, OpenCV |
+| **Feature Engineering** | Selection, extraction, transformation | Scikit-learn, custom algorithms |
+| **Model Development** | Training, validation, optimization | TensorFlow, Keras, Scikit-learn |
+| **Evaluation** | Metrics, cross-validation, analysis | Matplotlib, Seaborn, Plotly |
+| **Deployment** | API creation, containerization, monitoring | Flask, Docker, production setup |
 
 ---
 
@@ -107,10 +163,11 @@ A sophisticated kernel-level security mechanism to prevent unauthorized boot-tim
 
 | Award | Details |
 |-------|---------|
-| 🥇 **Project Expo 2025 Winner** | Innovation & Showcase category for kernel security system |
-| 🚀 **Active Competitive Programmer** | Regular LeetCode contributor & algorithm enthusiast |
-| 💡 **Hackathon Participant** | Campus-level competitions & tech events |
-| 📊 **Strong Academic Performance** | Consistent CGPA maintenance throughout coursework |
+| 🥇 **Project Expo 2025 Winner** | Innovation & Showcase for kernel security system |
+| 🤖 **ML & AI Enthusiast** | Active in algorithm research and model development |
+| 🚀 **Competitive Programmer** | Regular contributor on LeetCode & GeeksforGeeks |
+| 💡 **Hackathon Participant** | Campus-level competitions and tech events |
+| 📊 **Strong Academic Record** | Consistent CGPA with focus on CS fundamentals |
 
 ---
 
@@ -130,24 +187,26 @@ A sophisticated kernel-level security mechanism to prevent unauthorized boot-tim
 ## 🌟 Core Competencies
 
 ```
-Data Science & ML        ████████░░ 85%    |    Full-Stack Dev         █████████░ 90%
-Database Design          ████████░░ 85%    |    System Security        ███████░░░ 80%
-Algorithms & DSA         █████████░ 90%    |    System Design          ████████░░ 85%
+Artificial Intelligence      ████████░░ 85%    |    Machine Learning         ████████░░ 85%
+Data Science & Analytics     ████████░░ 85%    |    Cyber Security           ███████░░░ 80%
+Full-Stack Development       █████████░ 90%    |    System Design            ████████░░ 85%
+Algorithms & DSA             █████████░ 90%    |    Secure Systems           ███████░░░ 80%
 ```
 
 ---
 
 ## 🎨 Currently Learning & Exploring
 
-- 🔬 **Advanced Deep Learning** — Neural architecture design, computer vision, NLP
-- 📊 **Production ML Pipelines** — Feature engineering, model deployment, monitoring
-- 🌐 **Scalable Microservices** — Containerization, orchestration, distributed systems
-- 🔒 **Advanced Cybersecurity** — Penetration testing, vulnerability assessment, secure coding
-- 📱 **Mobile Development** — Cross-platform frameworks and native optimization
+- 🧠 **Advanced Deep Learning** — Transformers, attention mechanisms, neural architecture search
+- 🎯 **Computer Vision** — CNN architectures, object detection, semantic segmentation, image synthesis
+- 🗣️ **Natural Language Processing** — BERT, language models, sentiment analysis, text generation
+- 📊 **Production ML** — Model deployment, monitoring, A/B testing, MLOps pipelines
+- 🔒 **Advanced Cybersecurity** — Penetration testing, vulnerability assessment, secure protocol design
+- 🌐 **Distributed Systems** — Microservices security, containerization, zero-trust architecture
 
 ---
 
-## 🌐 Connect & Follow
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
@@ -162,23 +221,36 @@ Algorithms & DSA         █████████░ 90%    |    System Desig
 
 ---
 
-## 💼 Open To
+## 💼 Open To Opportunities
 
-- **Internships** in Data Science, ML Engineering, or Full-Stack Development
-- **Collaborations** on open-source projects and research initiatives
-- **Mentorship** in DSA, web development, and system design
-- **Freelance Projects** in ML pipelines, web applications, and data analytics
+- 🔬 **Internships** in Machine Learning, AI Research, or Cyber Security
+- 🤝 **Collaborations** on open-source ML projects and security research
+- 📚 **Mentorship** in DSA, ML fundamentals, and system security
+- 💻 **Freelance Projects** in ML pipelines, data analytics, and secure systems
+- 🎓 **Research** in AI/ML applications and security architectures
+
+---
+
+## 📚 Featured Resources & Insights
+
+I regularly work on:
+- **ML Projects** — End-to-end pipelines from data to deployment
+- **Security Research** — Kernel-level concepts and cryptographic systems
+- **Technical Write-ups** — Deep dives into algorithms, ML, and system design
+- **Open Source** — Contributing to ML and security-focused projects
 
 ---
 
 <div align="center">
 
-### "Code is poetry written for machines, but it should sing for humans." 💻✨
+### "Intelligent systems are built on three pillars: good data, sound algorithms, and rigorous security." 🧠🔐
 
-**⭐ If you find my work interesting, consider starring my repositories — it motivates me to build more!**
+**⭐ If you find my work interesting, star my repositories — it motivates me to build more cutting-edge solutions!**
 
 ---
 
-*Last updated: 2025 | Always learning, always building.*
+*Constantly learning, always building, forever improving.*
+
+**Last updated: 2025**
 
 </div>
