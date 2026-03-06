@@ -154,22 +154,6 @@
 
 <br>
 
-## 🐍 <span style="color:#FFB800;">Contribution Snake</span>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abhaykumar99/Abhaykumar99/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abhaykumar99/Abhaykumar99/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" width="100%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pacman.gif" width="100%" alt="Pacman Eating Animation">
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
 </div>
