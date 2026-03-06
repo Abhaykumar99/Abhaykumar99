@@ -157,8 +157,14 @@
 ## 🐍 <span style="color:#FFB800;">Contribution Snake</span>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhaykumar99&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff" width="100%" alt="Activity Graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhaykumar99/Abhaykumar99/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhaykumar99/Abhaykumar99/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhaykumar99/Abhaykumar99/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pacman.gif" width="100%" alt="Pacman Eating Animation">
