@@ -140,15 +140,27 @@
 <br>
 
 <div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abhaykumar99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&hide=cpp" alt="Top Languages" width="45%" />
-  <img src="https://gfgstatscard.vercel.app/abhay012prvt" alt="GeeksforGeeks Stats" width="45%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abhaykumar99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&hide=cpp" alt="Top Languages" width="48%" />
+  <img src="https://gfgstatscard.vercel.app/abhay012prvt" alt="GeeksforGeeks Stats" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
+  <h3>🔗 Coding Profiles</h3>
+</div>
+
+<div align="center">
   <a href="https://www.geeksforgeeks.org/profile/abhay012prvt">
     <img src="https://img.shields.io/badge/GeeksforGeeks-abhay012prvt-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/Abhaykumar99/">
+    <img src="https://img.shields.io/badge/LeetCode-Abhaykumar99-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Abhaykumar99">
+    <img src="https://img.shields.io/badge/GitHub-Abhaykumar99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </div>
 
@@ -195,8 +207,9 @@
 
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhaykumar99)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-012-prvt)
-  [![NextGen Tech](https://img.shields.io/badge/NextGen%20Tech%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nextgen-tech-connect/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Abhaykumar99/)
   [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/abhay012prvt)
+  [![NextGen Tech](https://img.shields.io/badge/NextGen%20Tech%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nextgen-tech-connect/)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Abhay_Kumar_012)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://abhaykumar99.github.io/Portfolio/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaygupta90069@gmail.com)
