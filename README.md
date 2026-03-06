@@ -11,7 +11,7 @@
   </h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=900&lines=B.Tech+CSE+%40+Shobhit+University+%F0%9F%8E%93;AI+Engineer+%26+ML+Specialist+%F0%9F%A4%96;Cyber+Security+Researcher+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%9A%80;Founder+%40+NextGen+Tech+Connect+%F0%9F%9A%80;Project+Expo+2025+Winner+%F0%9F%8F%86;Chess+Enthusiast+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=900&lines=B.Tech+CSE+%40+Shobhit+University+%F0%9F%8E%93;AI+Engineer+%26+ML+Specialist+%F0%9F%A4%96;Cyber+Security+Researcher+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%9A%80;Founder+%40+NextGen+Tech+Connect+%F0%9F%9A%80;Project+Expo+2025+Winner+%F0%9F%8F%86;Chess+Enthusiast+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -140,7 +140,7 @@
 <br>
 
 <div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abhaykumar99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Languages" width="45%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abhaykumar99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&hide=cpp" alt="Top Languages" width="45%" />
   <img src="https://gfgstatscard.vercel.app/abhay012prvt" alt="GeeksforGeeks Stats" width="45%" />
 </div>
 
@@ -158,10 +158,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashiskr/aashiskr/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashiskr/aashiskr/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aashiskr/aashiskr/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhaykumar99/Abhaykumar99/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhaykumar99/Abhaykumar99/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhaykumar99/Abhaykumar99/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pacman.gif" width="100%" alt="Pacman Eating Animation">
 </div>
 
 <div align="center">
