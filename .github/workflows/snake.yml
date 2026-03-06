@@ -2,40 +2,49 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:  # Manual trigger option
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Generate Snake SVG
-        uses: Platane/snk@master
+        uses: Platane/snk/build@master
+        id: snake-svg
         with:
           github_user_name: Abhaykumar99
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          snake_color: '#FFB800'
 
-      - name: Push Generated Files
-        uses: actions/upload-artifact@v2
-        with:
-          name: snake-artifact
-          path: dist/
+      - name: Create output directory and copy files
+        run: |
+          mkdir -p output
+          if [ -f "dist/github-contribution-grid-snake.svg" ]; then
+            cp dist/github-contribution-grid-snake.svg output/
+          fi
+          if [ -f "dist/github-contribution-grid-snake-dark.svg" ]; then
+            cp dist/github-contribution-grid-snake-dark.svg output/
+          fi
 
       - name: Commit and Push
         run: |
-          mkdir -p output
-          cp dist/github-contribution-grid-snake.svg output/
-          cp dist/github-contribution-grid-snake-dark.svg output/
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/
-          git commit -m "Generate snake animation" || true
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action Bot"
+            git add output/
+            git commit -m "Generate snake animation"
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
