@@ -5,47 +5,28 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches: [main, master]
-
-permissions:
-  contents: write
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
 
-      - name: Generate Snake SVG
-        uses: Platane/snk/build@master
-        id: snake-svg
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Abhaykumar99
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Create output directory and copy files
-        run: |
-          mkdir -p output
-          if [ -f "dist/github-contribution-grid-snake.svg" ]; then
-            cp dist/github-contribution-grid-snake.svg output/
-          fi
-          if [ -f "dist/github-contribution-grid-snake-dark.svg" ]; then
-            cp dist/github-contribution-grid-snake-dark.svg output/
-          fi
-
-      - name: Commit and Push to output branch
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action Bot"
-          git checkout --orphan output-branch
-          git rm -rf .
-          cp output/* . 2>/dev/null || true
-          git add .
-          git commit -m "Generate snake animation" --allow-empty
-          git push -f origin output-branch:output
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
