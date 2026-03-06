@@ -37,14 +37,15 @@ jobs:
             cp dist/github-contribution-grid-snake-dark.svg output/
           fi
 
-      - name: Commit and Push
+      - name: Commit and Push to output branch
         run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action Bot"
-            git add output/
-            git commit -m "Generate snake animation"
-            git push
-          fi
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git checkout --orphan output-branch
+          git rm -rf .
+          cp output/* . 2>/dev/null || true
+          git add .
+          git commit -m "Generate snake animation" --allow-empty
+          git push -f origin output-branch:output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
