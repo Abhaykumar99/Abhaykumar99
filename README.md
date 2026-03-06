@@ -155,8 +155,8 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-abhay012prvt-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/Abhaykumar99/">
-    <img src="https://img.shields.io/badge/LeetCode-Abhaykumar99-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  <a href="https://leetcode.com/u/abhay012prvt/">
+    <img src="https://img.shields.io/badge/LeetCode-abhay012prvt-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
   </a>
   &nbsp;
   <a href="https://github.com/Abhaykumar99">
@@ -207,7 +207,7 @@
 
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhaykumar99)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-012-prvt)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Abhaykumar99/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhay012prvt/)
   [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/abhay012prvt)
   [![NextGen Tech](https://img.shields.io/badge/NextGen%20Tech%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nextgen-tech-connect/)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Abhay_Kumar_012)
